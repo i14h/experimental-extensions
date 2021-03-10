@@ -1,0 +1,3 @@
+[submodule "algolia_write_ext"]
+	path = algolia_write_ext
+	url = git@github.com:huangjeff5/algolia_write_ext.git
